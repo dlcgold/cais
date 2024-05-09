@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <cmath>
-
+#include <cstdint>
 // struct containing command line parameters and other globals
 struct Args {
   std::string filename = "";
